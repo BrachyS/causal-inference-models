@@ -1,2 +1,2 @@
-# fixed-effects-models
+# fixed effects models
  causal inference practice using the Grunfeld dataset
